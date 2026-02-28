@@ -15,4 +15,4 @@ sandbox/
 logs/*
 # ...SAUF le fichier de données final qu'on veut récupérer
 !logs/experiment_data.json
-!logs/VENAI_experiment _data_historique.json
+!logs/VENAI_experiment_data_historique.json
